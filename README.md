@@ -17,7 +17,7 @@ It includes the following pipeline:<br/>
 the base color is normal map</br>
 <img src="1.png"  width="380" height="400">  <img src="2.png"  width="400" height="380"></br>
 
-### Performance Analysis
+## Performance Analysis
 <img src="p1.png"  width="600" height="150">
 <p>The CPU are all used for opengl related funtions. The computation mostly happened in GPU
 <p> a breakdown of time spent in each pipeline stage 
