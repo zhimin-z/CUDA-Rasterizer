@@ -22,6 +22,3 @@ the base color is normal map</br>
 <p>The CPU are all used for opengl related funtions. The computation mostly happened in GPU
 <p> a breakdown of time spent in each pipeline stage 
 <img src="pipe_line.png"  width="600" height="280">
-
-
-
