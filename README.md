@@ -1,6 +1,6 @@
 # CUDA Rasterizer
 
-**University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 4**
+**University of Pennsylvania, [CIS 565 GPU Programming and Architecture](https://cis565-fall-2022.github.io/), Project 4**
 
 * Zhimin Zhao
 * Tested on: Windows 10, i7- @ 2.22GHz 22GB, GTX 960M
